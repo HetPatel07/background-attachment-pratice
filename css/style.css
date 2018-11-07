@@ -1,0 +1,69 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    background-image: url(../images/Purposity-Cover-1-1920x883-c-center.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/Purposity-Cover-1-1920x883-c-center.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-attachment: fixed;
+}
+
+.first {
+    height: 100%;
+    width: 100%;
+    background-image: url()
+
+}
+
+.second {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.right {
+    width: 33.33%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    background-image: url(../images/WS-Case-Study-Right.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.left {
+    width: 33.33%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    background-image: url(../images/WinShape-Foundation-Cover-1-1920x883-c-center.jpg);
+    background-size: cover;
+    background-position: center;
+}
